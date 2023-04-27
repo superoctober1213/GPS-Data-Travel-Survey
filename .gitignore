@@ -1,3 +1,4 @@
 *.csv
 cache/
 Store_Locations.shp
+sprint/
