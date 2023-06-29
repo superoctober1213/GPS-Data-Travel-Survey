@@ -1,5 +1,8 @@
 # GPS Data Travel Survey
 
+### Introduction 
+According to the GPS data, infer stay point, tripleg path, home location, retail stores visited, and the tour process and path to the retail store
+
 ### Framework & Package
 - pandas
 - numpy
